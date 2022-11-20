@@ -1,0 +1,6 @@
+{
+  "name": "Octa Control",
+  "version": 1.211,
+  "description": ["Octa Control Software, Fixing something with windows 11"],
+  "windows_file_name": "installers/windows/octa_control.exe"
+}
