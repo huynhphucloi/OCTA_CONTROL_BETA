@@ -1,7 +1,7 @@
 {
   "name": "Octa Firmware",
-  "version": 221120,
-  "description": ["Increment 3ms debouce", "fix led unmout device"],
+  "version": 221220,
+  "description": ["Update Save Config in Keypad"],
   "firm_file_name": "installers/octa_keypad.bin",
   "tool_file_name": "installers/rp2040_loader.exe"
 }
